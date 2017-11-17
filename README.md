@@ -130,6 +130,8 @@ Tableau bar chart in Fig 1.65 shows that the total labor force of Australia is c
 
 
 # Conclusion
+
+<img width="944" alt="rebuttal 3" src="https://user-images.githubusercontent.com/31932632/32963121-cdd30670-cb83-11e7-87bb-2ae5ca841bc3.png">
   
   Fig 1.7 which is used for explanatory purposes from the source mentioned above, indicates the proportion of Women and Men working full time and part time in Australia, it shows that 61.7% of Women work full time compared to 86% of Men. 
   
