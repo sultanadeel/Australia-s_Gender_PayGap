@@ -77,7 +77,7 @@ The Tableau Donut Pie chart in Fig 1.3 is one of the intermediate visualizations
 
 # Final Visualization of the Original Claim
 
-<img width="958" alt="dashboard" src="https://user-images.githubusercontent.com/31932632/32968073-c771546a-cb94-11e7-8af5-e091bb7680e4.png">
+<img width="960" alt="dashboard" src="https://user-images.githubusercontent.com/31932632/32968440-11f87d00-cb96-11e7-94d7-805a645c2131.png">
 
                                                           Fig 1.4
   
