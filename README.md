@@ -1,7 +1,10 @@
 # Australia-s_Gender_PayGap
+
 Australia's Top 50 jobs pay Men more than Women
 
+# Tableau Workbook Link
 
+https://public.tableau.com/profile/muhammad.adeel3420#!/vizhome/Aus_GenderPayGap/DNA_ChartDashboard?publish=yes
 
 # Project Statement:
 
