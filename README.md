@@ -43,6 +43,7 @@ Male salaries in top professions in Australia are highly dispersed
 The above Fig 1.1 shows a Tableau boxplot visualization, which analyzes the variation in the salaries of Men and Women in Australia. We can see that the median of the boxplot for Men is relatively higher than Women and the Men boxplot is skewed to the right and has positive skewness. The outliers for Men boxplot are comparatively greater than for Women boxplot, indicating the fact most of the top occupations are paying Men more than Women in Australia for specific reasons that we would analyze in the rebuttal section of this analysis. We can also see in the boxplot visual that for some high ranked professions like Neurosurgery, there is a wide gap between the Men and Women Average Taxable Income. Men are commanding around $550,000 vs Women only $320,000 for a Neurosurgeon occupation. The boxplot visualization in Fig 1.1 is an ideal snapshot for analyzing the variation and dispersion in the salaries of Men and Women as it clearly shows the range of values and also indicates which occupations are paid more and which are low paid professions for Men and Women in Australia
 
 
+
 <img width="899" alt="ausdata2" src="https://user-images.githubusercontent.com/31932632/32963113-c78e7e0c-cb83-11e7-8543-b040ae8e2954.png">
 
                                                            Fig 1.2
@@ -54,6 +55,7 @@ Top Ranked Professions pay Men more than Women in Australia
 # Warrant:
 
 The tableau bar chart in Fig 1.2 shows the scale of Average Taxable Income for Men and Women in the top ranked professions. The visual shows that as the rank of occupation gets lower, the Average Taxable Income variation between Men and Women gets narrower. Therefore, the top ranked professions such as Neurosurgery, Ophthalmology, Judge Law, Plastic Surgery and Cardiology are some of the professions which pay Men significantly more than Women. The bar chart in Fig 1.2 is a clear, concise and easy to understand for the intended audience, the color comparison is just used to show the salary difference between Men and Women and the X and Y axis are straightforward for the audience to understand the claim.  We can see that a profession like Cricket which is very popular in Australia, has a very considerable difference in Men and Women Average Taxable Income. However, if we analyze the other dimensions and measures in the dataset, we can see that the no. of individuals in the Cricket profession shows that there are more Men 10,000 vs Women only 22, thereby justifying the claim that Men are paid more than women.
+
 
 
 <img width="899" alt="ausdata3" src="https://user-images.githubusercontent.com/31932632/32963112-c772bf1e-cb83-11e7-8f4f-efd3d6c5990c.png">
@@ -69,6 +71,7 @@ The Average Taxable Income of Men is higher than Women in Australia
 The Tableau Donut Pie chart in Fig 1.3 is one of the intermediate visualizations that we created to support our original claim. It shows the proportion of average salary of Men and Women. The pie chart shows that Women Average Taxable Income is $56,000 or 42.7% of the total, whereas Men Average Taxable Income is $75,000 and occupies 57.3% of the pie chart. Therefore, it is a clear indication towards supporting our claim that Men Average salary is higher than Women Average Salary in Australia
 
 
+
 # Final Visualization of the Original Claim
 
 <img width="1028" alt="ausdata4" src="https://user-images.githubusercontent.com/31932632/32963111-c75b4fd2-cb83-11e7-9d3e-2cb597b05b88.png">
@@ -82,6 +85,7 @@ Australia’s Top 50 jobs pay Men significantly more than Women
 # Warrant:
 
 Fig 1.4 is a Tableau DNA chart designed to support our claim that the top ranked jobs are paying Men more than Women. The DNA chart is an accurate reflection of this claim, it represents the actual difference or spread between the two quantities which are the Average Taxable Income of Men and Women represented by blue and yellow colors respectively. The line between any two points shows the difference in the salary range for any particular occupation. We can see that the biggest difference is in the top ranked profession of Neurosurgery, Ophthalmology, Orthopedic Surgery and Cardiology. The bigger the difference in the two quantities in the DNA chart, the more persuasive our claim would be that the top ranked jobs are paying Men more than Women. Fig 1.4 DNA chart clearly supports our claim and is a persuasive and easy to understand visualization made using the existing dataset on Australian Gender gap in salaries 
+
 
 
 # Rebuttal
@@ -107,6 +111,7 @@ Full Time Labor force participation of Women is less than Men in Australia
 The bar chart in Fig 1.5 shows that Women participation rate in full time labor force is just 53% while Men participation rate is 81% much higher than Women. This is an important argument in rebutting our original claim that top professions in Australia pay Men more than Women. Since women are less actively involved in the full time employment, their Average taxable Income is lesser than Men who are able to work full time more often than Women and thus able to command higher income than Women because of greater full time availability. This analogy is focused more on the top 50 occupations including Neurosurgery and Medicine related occupations where full time availability is of utmost importance and of higher demand by the employer considering the risk involved in the occupation
 
 
+
 <img width="900" alt="rebuttal 1" src="https://user-images.githubusercontent.com/31932632/32963123-ce037260-cb83-11e7-8481-1599e5ffd66b.png">
 
                                                          Fig 1.6
@@ -119,7 +124,8 @@ Women participation in Australia’s total labor force is less than Men
 
 Tableau bar chart in Fig 1.65 shows that the total labor force of Australia is comprised of more Men and Women. We can analyze from fig 1.6 that Women are less involved in the total labor force as their participation rate is 71.6% as compared to Men’s labor force participation rate of 82.3% in the year 2016. Since Women are less actively involved in the labor force than Men, their Average Taxable Income is less than Men in most of the professions thereby refuting our original claim that the top professions pay Men more than Women
    
-   
+
+
 # Conclusion
   
   Fig 1.7 which is used for explanatory purposes from the source mentioned above, indicates the proportion of Women and Men working full time and part time in Australia, it shows that 61.7% of Women work full time compared to 86% of Men. 
