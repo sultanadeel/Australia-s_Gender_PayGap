@@ -91,7 +91,7 @@ The Tableau Donut Pie chart in Fig 1.3 is one of the intermediate visualizations
 
 <img width="960" alt="dashboard" src="https://user-images.githubusercontent.com/31932632/32968440-11f87d00-cb96-11e7-94d7-805a645c2131.png">
 
-                                                          Fig 1.4
+                Fig 1.4   Australia's top 50 jobs pay Men significantly more than Women
   
 # Claim: 
 
