@@ -47,7 +47,7 @@ Changing or correcting a general perceived perception is one of our major goals 
 
 <img width="944" alt="ausdata1" src="https://user-images.githubusercontent.com/31932632/32963114-c7ab24b2-cb83-11e7-9364-caf9a43c8e00.png">
 
-                                                          Fig 1.1
+                             Fig 1.1 Higher dispersion in Male Salaries in Australia
 
 # Claim: 
 
@@ -61,7 +61,7 @@ The above Fig 1.1 shows a Tableau boxplot visualization, which analyzes the vari
 
 <img width="899" alt="ausdata2" src="https://user-images.githubusercontent.com/31932632/32963113-c78e7e0c-cb83-11e7-8543-b040ae8e2954.png">
 
-                                                           Fig 1.2
+                              Fig 1.2 Top Ranked Professions Pay Men more than Women in Australia
                                                      
 # Claim:
 
@@ -75,7 +75,7 @@ The tableau bar chart in Fig 1.2 shows the scale of Average Taxable Income for M
 
 <img width="899" alt="ausdata3" src="https://user-images.githubusercontent.com/31932632/32963112-c772bf1e-cb83-11e7-8f4f-efd3d6c5990c.png">
 
-                                                           Fig 1.3
+                                Fig 1.3 Proportion of Men & Women Average Salaries in Australia
                                                           
 # Claim:
 
