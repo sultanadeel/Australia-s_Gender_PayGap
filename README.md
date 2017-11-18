@@ -37,7 +37,7 @@ The most important question at hand is that what actually constitutes the differ
 
 # Metrics:
 
-The metrics in this analysis of the Australian Gender pay gap includes the Average Taxable Income for both Men and Women as a separate measure in every respective occupation. Another metric is the no. of individuals in every occupation. Since metrics connect data to the claims and act as a glue in between, Average Taxable Income in the dataset support us in making our claim “Australia’s top 50 jobs pay Men more than Women” more persuasive and qualifying for the intended audience of our visualizations
+The metrics in this analysis of the Australian Gender pay gap includes the Average Taxable Income for both Men and Women as a separate measure in every respective occupation. Another metric is the no. of individuals in every occupation. Since metrics connect data to the claims and act as a glue in between, Average Taxable Income in the dataset support us in making our claim “Australia’s top 50 jobs pay Men more than Women” more persuasive and qualifying for the intended audience of our visualizations. Another crucial metric that we would analyze to support and to refute our arguments is the total, full-time as well as the part time labor force participation rates of Men and Women in Australia
 
 # Perception:
 
