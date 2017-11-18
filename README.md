@@ -115,7 +115,7 @@ Through this rebuttal, our specifically targeted audience who is presumed to be 
 
 <img width="900" alt="rebuttal 2" src="https://user-images.githubusercontent.com/31932632/32963122-cdedfc78-cb83-11e7-92af-500cdcf04866.png">
 
-                                                        Fig 1.5
+                                  Fig 1.5 Australia's Full-Time Labor Force Participation Rate in 2016
                                                      
 # Claim:
 
@@ -129,7 +129,7 @@ The bar chart in Fig 1.5 shows that Women participation rate in full time labor 
 
 <img width="900" alt="rebuttal 1" src="https://user-images.githubusercontent.com/31932632/32963123-ce037260-cb83-11e7-8481-1599e5ffd66b.png">
 
-                                                         Fig 1.6
+                                  Fig 1.6 Australia's Total Labor Force Participation Rate in 2016
 
 # Claim:
 
