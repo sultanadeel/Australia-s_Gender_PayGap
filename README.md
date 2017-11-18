@@ -151,3 +151,14 @@ Data Source:  http://stats.oecd.org/
 A recent research shows that as compared to the U.S., Australian Women are more likely to work part time after motherhood and prefer to devote more time and energy towards household related matters. The concept of day long child care is still not very popular in Australia and is comparatively costlier than in the U.S, in fact many firms are now providing childcare services to their Women employees in order to attract and retain the top Women talent. This is another crucial factor behind the fact that Australian Women are less involved than Men in the full time labor force. The trend of working part time is quite popular in Australia for Women, some major Australian companies like Telstra, ANZ Bank, Westpac, and PWC have offered extended part time shifts to their employees especially targeted towards Women in order to attract skilled and talented applicants. 
 
 All of these factors help us in our rebuttal to contradict the claim that “Australia’s top occupations pay Men more than Women” as it is not that Men are getting paid more than Women in a specific profession, it is because Women in those skilled professions are less likely to work full time after motherhood and therefore their Average Taxable Income gets thinner than that of Men based on the total no.of hours worked per day.
+
+# References
+
+https://www.ussc.edu.au/analysis/women-at-work-australia-and-the-united-states
+http://www.womensagenda.com.au/latest/eds-blog/australia-s-50-highest-paying-jobs-are-paying-men-significantly-more/
+http://www.makeovermonday.co.uk/data/
+https://twitter.com/i/moments/816122321861623808
+https://github.com/mschermann/msis2629fall2017_lab_sessions/blob/master/Lab%20Session%202.ipynb
+http://pandas.pydata.org/pandas-docs/version/0.9.1/visualization.html
+https://pandas-docs.github.io/pandas-docs-travis/groupby.html
+https://stackoverflow.com/
