@@ -161,4 +161,5 @@ https://twitter.com/i/moments/816122321861623808
 https://github.com/mschermann/msis2629fall2017_lab_sessions/blob/master/Lab%20Session%202.ipynb
 http://pandas.pydata.org/pandas-docs/version/0.9.1/visualization.html
 https://pandas-docs.github.io/pandas-docs-travis/groupby.html
+
 https://stackoverflow.com/
