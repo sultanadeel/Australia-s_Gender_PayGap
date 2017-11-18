@@ -137,7 +137,7 @@ Women participation in Australia’s total labor force is less than Men
 
 # Warrant:
 
-Tableau bar chart in Fig 1.65 shows that the total labor force of Australia is comprised of more Men and Women. We can analyze from fig 1.6 that Women are less involved in the total labor force as their participation rate is 71.6% as compared to Men’s labor force participation rate of 82.3% in the year 2016. Since Women are less actively involved in the labor force than Men, their Average Taxable Income is less than Men in most of the professions thereby refuting our original claim that the top professions pay Men more than Women
+Tableau bar chart in Fig 1.6 shows that the total labor force of Australia is comprised of more Men and Women. We can analyze from fig 1.6 that Women are less involved in the total labor force as their participation rate is 71.6% as compared to Men’s labor force participation rate of 82.3% in the year 2016. Since Women are less actively involved in the labor force than Men, their Average Taxable Income is less than Men in most of the professions thereby refuting our original claim that the top professions pay Men more than Women
    
 
 
@@ -146,7 +146,7 @@ Tableau bar chart in Fig 1.65 shows that the total labor force of Australia is c
 <img width="944" alt="rebuttal 3" src="https://user-images.githubusercontent.com/31932632/32963121-cdd30670-cb83-11e7-87bb-2ae5ca841bc3.png">  Image Source: https://www.ussc.edu.au/analysis/women-at-work-australia-and-the-united-states
 Data Source:  http://stats.oecd.org/
   
-  The above image which is used for explanatory purposes from the source mentioned above, indicates the proportion of Women and Men working full time and part time in Australia, it shows that 61.7% of Women work full time compared to 86% of Men. 
+  The above image which is used for explanatory purposes from the source mentioned above, indicates the proportion of Women and Men working full time and part time in Australia, it shows that 61.7% of Women work full time compared to 86% of Men working full time
   
 A recent research shows that as compared to the U.S., Australian Women are more likely to work part time after motherhood and prefer to devote more time and energy towards household related matters. The concept of day long child care is still not very popular in Australia and is comparatively costlier than in the U.S, in fact many firms are now providing childcare services to their Women employees in order to attract and retain the top Women talent. This is another crucial factor behind the fact that Australian Women are less involved than Men in the full time labor force. The trend of working part time is quite popular in Australia for Women, some major Australian companies like Telstra, ANZ Bank, Westpac, and PWC have offered extended part time shifts to their employees especially targeted towards Women in order to attract skilled and talented applicants. 
 
