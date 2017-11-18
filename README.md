@@ -27,6 +27,14 @@ Based on the available data and our preliminary analysis in Python and Tableau, 
 
 Before creating visualizations, we need to understand the concerned audience and their respective Needs, Wants and Fears in interpreting our visualizations. Our main audience of this dataset analysis is presumably an Australian Labor Force statistician, who after collecting and consolidating the widely dispersed data, wants to analyze the visual characteristics and arguments behind the facts, relationships and patterns in the dataset. Their Need is to better understand the data in terms of disparity between Men and Women salaries for various occupations in Australia. Their Wants include analyzing which occupations are in the top ranking scale and which are ranked in the middle or the lower tier of salary range. The dataset also provides no.of individuals in each occupation so the demographic feature of the data is also one of the wanted findings of our audience. To persuade our audience towards the claim that “Australia’s top 50 jobs pay Men significantly more than Women” is one of our Goals. This topic is of interest to our audience because this is a very volatile and debatable issue in and outside of Australia especially pertaining to Men and Women salary gaps within a similar occupation
 
+# Goals:
+
+We have twofold goals in this project analysis. Our first and foremost goal is to show that the top 50 occupations in Australia are paying Men and Women on a different scale and there is a nominal difference in Average Taxable Income of Men and Women in a particular profession. However, our final goal is to shed light on the main reason behind the gender pay gap in Australia, for which we researched externally and found important arguments to justify that pay scale is not different of Men and Women. It's just Women tend to work part time more in Australian society
+
+# Questions:
+
+The most important question at hand is that what actually constitutes the difference in gender pay gap in Australia. Initial presumption of an audience looking at the visualization of gender pay gap would be to think about some sort of gender discrimination or shortage of skills. However, we would preclude those general misconceptions and provide reasonable arguments to contradict the gender pay gap analogy in Australia
+
 # Metrics:
 
 The metrics in this analysis of the Australian Gender pay gap includes the Average Taxable Income for both Men and Women as a separate measure in every respective occupation. Another metric is the no. of individuals in every occupation. Since metrics connect data to the claims and act as a glue in between, Average Taxable Income in the dataset support us in making our claim “Australia’s top 50 jobs pay Men more than Women” more persuasive and qualifying for the intended audience of our visualizations
